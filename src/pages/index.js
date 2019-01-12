@@ -1,5 +1,7 @@
 import React from "react"
 
 export default () =>(
-  <div style={{ color: `purple` }}>Hello Gatsby!</div>
+  <div style={{ color: `purple` }}>
+  <h1>Hello Gatsby!</h1>
+  </div>
 )
