@@ -1,7 +1,7 @@
-import React from "react"
+import React from "react";
 
-export default () =>(
+export default () => (
   <div style={{ color: `purple` }}>
-  <h1>Hello Gatsby!</h1>
+    <h1>Hello Gatsby!</h1>
   </div>
-)
+);
