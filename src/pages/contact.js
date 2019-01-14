@@ -4,6 +4,7 @@ import Header from "../components/header"
 
 export default () => (
   <div style ={{ color: 'teal' }}>
+    <Link to = "/"> Home </Link>
 
   </div>
 )
